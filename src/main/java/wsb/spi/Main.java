@@ -17,6 +17,7 @@ public class Main {
 */
         FakerTest fakerTest = new FakerTest();
         System.out.printf(fakerTest.getFakeData());
+        System.out.printf("koniec");
 
     }
 }
